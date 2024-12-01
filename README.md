@@ -4,10 +4,13 @@ Blinkit Store Data Analysis Advance Excel Pivot Table Overview This project invo
 This analysis highlights trends in sales performance across categories, outlet types, and locations, offering valuable insights for strategic decisions. Let me know if you'd like to include any visualizations or further insights!
 
 ## Analysis Report for Blinkit Store Data
--**Key Metrics**:
+- **Key Metrics**:
 Total Sales: ₹1,201,681.49
+
 Average Sales Per Item: ₹140.99
+
 Top Selling Item Type: Fruits and Vegetables
+
 Top Performing Outlet Type: Supermarket Type1
 
 ## Data Insights:
