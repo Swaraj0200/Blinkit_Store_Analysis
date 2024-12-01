@@ -21,15 +21,15 @@ Other significant contributors include Household items (₹135,976.53) and Froze
 
 ### Sales by Outlet Type:
 
-- **Supermarket Type1 leads with ₹787,549.89.
-- **Grocery Store contributes ₹151,939.15.
-- **Supermarket Type2 and Type3 have similar performance at around ₹131,000 each.
+- Supermarket Type1 leads with ₹787,549.89.
+- Grocery Store contributes ₹151,939.15.
+- Supermarket Type2 and Type3 have similar performance at around ₹131,000 each.
 
 ### Sales by Location Type:
 
-- **Tier 3 outlets generated the highest sales (₹472,133.03).
-- **Tier 2 followed with ₹393,150.65.
-- **Tier 1 recorded the least sales (₹336,397.81).
+- Tier 3 outlets generated the highest sales (₹472,133.03).
+- Tier 2 followed with ₹393,150.65.
+- Tier 1 recorded the least sales (₹336,397.81).
 
 ## Observations:
 Fruits and Vegetables dominate as the top-selling category, highlighting customer preference for fresh produce.
